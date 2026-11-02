@@ -10,7 +10,7 @@ Building useful applications with clean interfaces, reliable functionality, and 
 <a href="https://github.com/raisaa4-pt">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/raisya-eka-putri/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="mailto:raisya.ekaputri1807@gmail.com">
@@ -190,13 +190,17 @@ An Android application developed as a collaborative software project.
 
 ---
 
+
 ## 📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=raisaa4-pt&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD&rank_icon=github"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api?username=raisaa4-pt&show_icons=true&theme=transparent&hide_border=true&title_color=A78BFA&icon_color=8B5CF6&text_color=C4B5FD"/>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raisaa4-pt&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C4B5FD"/>
+<img height="165" src="https://github-stats-extended.vercel.app/api/top-langs?username=raisaa4-pt&layout=compact&theme=transparent&hide_border=true&title_color=A78BFA&text_color=C4B5FD"/>
+
+</div>
+
 
 </div>
 
@@ -213,7 +217,7 @@ I'm always interested in learning, building new things, and collaborating on mea
 <a href="https://github.com/raisaa4-pt">
   <img src="https://img.shields.io/badge/GitHub-Visit_My_Profile-181717?style=for-the-badge&logo=github"/>
 </a>
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/raisya-eka-putri/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 <a href="mailto:raisya.ekaputri1807@gmail.com">
