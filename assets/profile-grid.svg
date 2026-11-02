@@ -1,0 +1,76 @@
+
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#100C20"/>
+      <stop offset="0.55" stop-color="#21113D"/>
+      <stop offset="1" stop-color="#090D1B"/>
+    </linearGradient>
+    <linearGradient id="glow" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#A855F7"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" stroke="#A78BFA" stroke-opacity="0.15" stroke-width="1"/>
+    </pattern>
+    <radialGradient id="orb">
+      <stop stop-color="#A855F7" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#A855F7" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
+
+  <circle cx="1020" cy="40" r="240" fill="url(#orb)"/>
+  <circle cx="180" cy="320" r="200" fill="url(#orb)"/>
+
+  <path d="M780 0V320M900 0V320M1020 0V320"
+        stroke="#A78BFA" stroke-opacity="0.12"/>
+  <path d="M0 80H1200M0 160H1200M0 240H1200"
+        stroke="#A78BFA" stroke-opacity="0.12"/>
+
+  <rect x="64" y="54" width="5" height="190" rx="2.5" fill="url(#glow)"/>
+
+  <text x="94" y="85" fill="#C4B5FD"
+        font-family="Arial, sans-serif" font-size="16"
+        letter-spacing="4">HELLO, I'M</text>
+
+  <text x="90" y="145" fill="#FFFFFF"
+        font-family="Arial, sans-serif" font-size="48"
+        font-weight="bold">RAISYA EKA PUTRI</text>
+
+  <text x="94" y="185" fill="#C4B5FD"
+        font-family="Arial, sans-serif" font-size="21">
+    Full-Stack Developer
+  </text>
+
+  <text x="94" y="218" fill="#A5B4FC"
+        font-family="Arial, sans-serif" font-size="17">
+    Cybersecurity Enthusiast
+  </text>
+
+  <rect x="94" y="250" width="210" height="34" rx="17"
+        fill="#8B5CF6" fill-opacity="0.2"
+        stroke="#A78BFA" stroke-opacity="0.6"/>
+
+  <text x="116" y="272" fill="#DDD6FE"
+        font-family="Arial, sans-serif" font-size="13">
+    BUILD • CREATE • SECURE
+  </text>
+
+  <g transform="translate(910 105)" stroke="#C4B5FD"
+     stroke-width="2" stroke-opacity="0.8" fill="none">
+    <rect x="0" y="0" width="120" height="90" rx="10"/>
+    <path d="M0 24H120M20 0V24"/>
+    <circle cx="12" cy="12" r="3" fill="#A855F7" stroke="none"/>
+    <path d="M42 45L30 57L42 69M78 45L90 57L78 69M68 42L53 72"/>
+  </g>
+
+  <text x="1050" y="130" fill="#C4B5FD"
+        font-family="Arial, sans-serif" font-size="13"
+        text-anchor="middle">CODE</text>
+  <text x="1050" y="225" fill="#C4B5FD"
+        font-family="Arial, sans-serif" font-size="13"
+        text-anchor="middle">SECURITY</text>
+</svg>
